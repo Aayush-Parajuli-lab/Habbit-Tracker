@@ -9,8 +9,8 @@ A simple yet powerful **habit tracking web app** that helps users build consiste
 ---
 
 ## ✨ Features
-- [] User Authentication (Sign up, Login, Google OAuth)
-- [] Create, edit, delete habits
+- [ ] User Authentication (Sign up, Login, Google OAuth)
+- [ ] Create, edit, delete habits
 - [ ] Calendar view for daily/weekly habit tracking
 - [ ] Streak tracking with 🔥 streak counter
 - [ ] Gamification with XP, badges, and levels
